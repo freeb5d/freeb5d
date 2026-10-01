@@ -8,6 +8,7 @@
 - Full-stack engineer comfortable across the whole stack, from UI to database to deployment
 - Build performance-focused tools in **Go** and **Rust**, and web products in **TypeScript**, **Python** and **PHP**
 - Care about clean architecture, security, automation, and software people actually enjoy using
+- Game developer building multiplayer RTS games with Godot
 - Open-source maintainer of desktop, mobile and networking projects
 - Always learning and exploring AI-assisted development workflows
 
@@ -21,6 +22,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,6 +53,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+**Game Development**<br>
+![Godot 4](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Multiplayer Networking](https://img.shields.io/badge/Multiplayer_Networking-0A0A0A?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Game AI](https://img.shields.io/badge/Game_AI-0A0A0A?style=for-the-badge&logo=gamedeveloper&logoColor=white)
+
 **DevOps & Tooling**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -71,6 +79,7 @@
 | DevOps | Docker, Nginx, Linux servers, CI/CD pipelines, monitoring |
 | Desktop & Mobile | Go, Rust and Flutter apps for Windows, macOS, Linux and Android |
 | Networking | Proxy/VPN clients (VLESS, VMess, Trojan, Shadowsocks, REALITY), SNMP and router monitoring |
+| Game Dev | Real-time multiplayer games in Godot 4: lobby and netcode, bot AI, game systems, automated builds |
 | Security | Secure auth flows, input validation, hardened deployments |
 
 ## Featured Projects
@@ -84,6 +93,7 @@
 | [squish](https://github.com/freeb5d/squish) | Lightweight cross-platform video compressor | Go, Wails, FFmpeg |
 | [regionhop](https://github.com/freeb5d/regionhop) | Multi-region Psiphon tunnel manager | Go |
 | [kete-books](https://github.com/freeb5d/kete-books) | Bilingual accounting system for small businesses | PHP, Laravel |
+| [ironfront](https://github.com/freeb5d/ironfront) | Real-time strategy game with 8 players, 5 nations, LAN/online multiplayer and bots | Godot 4, GDScript |
 | [servo-map](https://github.com/freeb5d/servo-map) | Real-time fuel prices on an interactive map | TypeScript |
 
 ## GitHub Stats
